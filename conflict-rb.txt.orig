@@ -1,0 +1,8 @@
+ligne1
+ligne2
+<<<<<<< HEAD
+ligne4 modified
+=======
+ligne 4 modified master
+>>>>>>> f898bda (Modification du fichier conflict)
+
